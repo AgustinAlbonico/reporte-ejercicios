@@ -1,2 +1,7 @@
-# reporte-ejercicios
-Aplicacion creada con el stack de MERN. Contiene manejo de rutas con express, conexion a base de datos en mongodb con mongoose, y un frontend en react sencillo con bootstrap y axios para acceder a los datos de la API REST
+Code for MERN tutorial.
+
+Video Tutorial: https://www.youtube.com/watch?v=7CqJlxBYj-M
+
+Article Tutorial: https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
